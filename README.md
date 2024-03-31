@@ -8,7 +8,7 @@ Android Engineer with 10+ years of experience developing high-quality mobile Jav
 
 *   🌍  I'm based in Colombia
 *   ✉️  You can contact me at [kataeli@gmail.com](mailto:kataeli@gmail.com)
-*   🚀  I'm currently working on [tribalworldwide](http://tribalworldwide.gt)
+*   🚀  I'm currently working on Bi en Línea app https://play.google.com/store/apps/details?id=gt.com.bi.bienlinea&hl=es_GT&pli=1 at tribalworldwide https://tribalworldwide.gt/
 *   🧠  I'm learning KMP
 *   🤝  I'm open to collaborating on Mobile Projects
 *   ⚡  I love pets and coffee
