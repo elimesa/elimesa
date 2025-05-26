@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliana Mejia
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Eliana Mejia 👩‍💻
 ====================================================================================================================================
 
-Software Engineer
+# Android Engineer | Engineering Manager
 -----------------
 
 Android Engineer with 10+ years of experience developing high-quality mobile Java/Kotlin native apps, and 3+ experience developing with Flutter (Dart) cross-platform apps such as ride-sharing apps, mobile ordering platforms, and e-commerce apps, following the best practices (SOLID, Design Patterns, MVVM) and user experience guidelines to deliver apps that exceed expectations. A collaborative team member that enjoys supporting, mentoring, and learning from others.
